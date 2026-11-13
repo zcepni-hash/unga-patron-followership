@@ -1,7 +1,7 @@
 # Who Follows a Great Power?
 ### Patron Vote Switches and Followership in the UN General Assembly
 
-**Authors:** Zehra Çepni · Mükerrem Said Özdemir
+**Authors:** Zehra Çepni 
 **Course:** DSAI 581 Network Analysis, Boğaziçi University (Fall 2026)
 **Status:** Work in progress. The research design is complete; data collection and coding are under way.
 
