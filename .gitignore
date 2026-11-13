@@ -1,3 +1,25 @@
+# Data: never commit raw or processed data
+data/raw/*
+!data/raw/README.md
+data/processed/*
+*.csv
+*.parquet
+*.xlsx
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.Rproj.user/
+
+# OS
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
