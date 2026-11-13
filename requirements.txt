@@ -1,0 +1,11 @@
+pandas
+numpy
+pyarrow
+scikit-learn
+python-igraph
+leidenalg
+networkx
+geopandas
+country_converter
+openpyxl
+jupyter
